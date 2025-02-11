@@ -7,8 +7,8 @@ This data set presents the experimental data available in the literature on Fe, 
 ### Data Structure
 
 The dataset consists of the following columns:
-	•	Pressure (GPa): Pressure conditions under which the phase observations were recorded
-	•	Temperature (K): Corresponding temperature at the given pressure
-	•	Phase: Phase of the material observed at the recorded P-T conditions
-	•	Author: Source
-	•	Method: Technique used
+- Pressure (GPa): Pressure conditions under which the phase observations were recorded
+- Temperature (K): Corresponding temperature at the given pressure
+- Phase: Phase of the material observed at the recorded P-T conditions
+- Author: Source
+- Method: Technique used
