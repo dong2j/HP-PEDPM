@@ -12,3 +12,9 @@ The dataset consists of the following columns:
 - Phase: Phase of the material observed at the recorded P-T conditions
 - Author: Source
 - Method: Technique used
+
+### Citation
+
+If you use the phase diagrams, please cite the following manuscript:
+
+Dong, J., Mardaru, G.D., Asimow, P.D., Stixrude, L.P., & Fischer, R.A. (2025). Structure and Melting of Fe, MgO, SiO<sub>2</sub> , and MgSiO<sub>3</sub>  in Planets: Database, Inversion, and Phase Diagram. *arXiv preprint* [arXiv:2503.21734](https://arxiv.org/abs/2503.21734).
