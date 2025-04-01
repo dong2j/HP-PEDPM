@@ -23,7 +23,12 @@ This code is provided to reproduce **Figure 8** from the manuscript.
    conda env create --file environment.yml
    conda activate mlpd
 
-3. **Download the data associated with Figure 8 from xx
+3. **Download the data for Figure 8 from ZENODO (https://doi.org/10.5281/zenodo.15117456) and place the DATA folder within the Figure8 folder in the same directory as the Python script.**
+
+4. **Run the python script to plot Figure 8.**
+
+   ```bash
+   python fig8_phase_diagrams.py 
 
 ## Citation
 
