@@ -9,13 +9,13 @@ This code is provided to reproduce **Figure 8** from the manuscript.
 
 ## Installation
 
-1. **Clone the Repository:**
+1. **STEP 1 Clone the Repository:**
 
    ```bash
    git clone https://github.com/dong2j/HP-PEDPM.git
    cd HP-PEDPM/2025verFeb11/Figure8
 
-2. **Create the environment using the provided environment.yml file:**
+2. **STEP 2 Create the environment using the provided environment.yml file:**
 
    ```bash
    conda env create --file environment.yml
@@ -23,11 +23,11 @@ This code is provided to reproduce **Figure 8** from the manuscript.
 
 ## Downloading Data
 
-3. **Download the associated data from ZENODO (https://doi.org/10.5281/zenodo.15117456) and place the DATA folder within the Figure8 folder in the same directory as the Python script.**
+3. **STEP 3 Download the associated data from ZENODO (https://doi.org/10.5281/zenodo.15117456) and place the DATA folder within the Figure8 folder in the same directory as the Python script.**
 
-## Plotting
+## Plotting (ensure you have completed Step 3 first)
 
-4. **Run the python script to plot Figure 8.**
+4. **STEP 4 Run the python script to plot Figure 8.**
 
    ```bash
    python fig8_phase_diagrams.py 
