@@ -23,7 +23,7 @@ This code is provided to reproduce **Figure 8** from the manuscript.
 
 ## Downloading Data
 
-3. **Download the data for Figure 8 from ZENODO (https://doi.org/10.5281/zenodo.15117456) and place the DATA folder within the Figure8 folder in the same directory as the Python script.**
+3. **Download the associated data from ZENODO (https://doi.org/10.5281/zenodo.15117456) and place the DATA folder within the Figure8 folder in the same directory as the Python script.**
 
 ## Plotting
 
