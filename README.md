@@ -13,6 +13,15 @@ The dataset consists of the following columns:
 - Author: Source
 - Method: Technique used
 
+### Phase Diagrams
+| MgO | SiO₂ |
+|-----|------|
+| <img src="Phase Diagrams/MgO.png" alt="MgO" width="300"/> | <img src="Phase Diagrams/SiO2.png" alt="SiO2" width="300"/> |
+
+| Fe | MgSiO₃ |
+|----|--------|
+| <img src="Phase Diagrams/Fe.png" alt="Fe" width="300"/> | <img src="Phase Diagrams/MgSiO3.png" alt="MgSiO3" width="300"/> |
+
 ### Citation
 
 If you use the phase diagrams, please cite the following manuscript:
